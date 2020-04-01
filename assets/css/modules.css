@@ -879,3 +879,7 @@ table {
                             }
             
                 }
+
+p ul {
+    list-style: none ;
+}
